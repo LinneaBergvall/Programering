@@ -2,11 +2,12 @@
 
 *Det här är för programmerings kursen.*
 
+## Sidor
 
 Jag har andvänt mig av denna sidan för hjälp [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
-## Saker jag skulle göra
+### Saker jag skulle göra
 
 1. Titta på intro video
 
