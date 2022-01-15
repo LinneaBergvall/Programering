@@ -9,7 +9,7 @@ Jag har andvänt mig av denna sidan för hjälp [Basic writing and formatting sy
 
 ## Saker jag skulle göra
 
-1. - [x] Titta på intro video - []
+- [x] 1. Titta på intro video
 
 2. Följ [Installationsinstruktionen](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 
