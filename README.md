@@ -1,6 +1,6 @@
 # Programering
 
-*Det här är för programmerings kursen.*
+*I programerings kursen skulle vi lära oss använda github och github desktop. Så det här resporityory andvänds för testning*
 
 ## Sidor jag använt mig av
 
